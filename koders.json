@@ -1,0 +1,39 @@
+{
+ "koders": [
+  {
+   "id": 3,
+   "name": "Antonio",
+   "lastName": "Rodriguez",
+   "Age": "29",
+   "favoriteFood": "Hamburguesas"
+  },
+  {
+   "id": 65,
+   "name": "Julia",
+   "lastName": "Rosas",
+   "Age": "29",
+   "favoriteFood": "Sushi"
+  },
+  {
+   "id": 44,
+   "name": "Daniel",
+   "lastName": "Huidobro",
+   "Age": "35",
+   "favoriteFood": "Pizza"
+  },
+  {
+   "id": 20,
+   "name": "Pat",
+   "lastName": "Martinez",
+   "Age": "32",
+   "favoriteFood": "Sushi"
+  },
+  {
+   "id": 23,
+   "name": "Giovanni",
+   "lastName": "Maldonado",
+   "Age": "39",
+   "favoriteFood": "Picadillo"
+  }
+ ]
+}
